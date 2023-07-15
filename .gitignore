@@ -1,3 +1,5 @@
 **/__pycache__/**
-history/**
+assets/**/**
 models/**
+results/**
+logs/**
